@@ -1,0 +1,22 @@
+[
+        {
+            "username":"elRodo",
+            "email":"elrodo@hotmail.com",
+            "role":"admin"
+        },
+        {
+            "username":"elEfra",
+            "email":"elEfra@hotmail.com",
+            "role":"user"
+        },
+        {
+            "username":"elJaime",
+            "email":"elJaime@hotmail.com",
+            "role":"user"
+        },
+        {
+            "username":"elCoca",
+            "email":"elCoca@hotmail.com",
+            "role":"admin"
+        }
+    ]
